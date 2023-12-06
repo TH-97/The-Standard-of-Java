@@ -2,7 +2,7 @@ package ch6;
 
 class Tv {
     //Tv 속성(멤버변수)
-    String color; //색상
+    String color1; //색상
     boolean power; //전원상태
     int channel; //채널
 
